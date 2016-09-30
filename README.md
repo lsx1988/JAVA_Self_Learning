@@ -7,3 +7,9 @@ AWT:
   Panel Class: A subclass of container class. Object of panel class do not have title bar, menu bar and border bar
   Window class: A top level class, we usually use its subclass Frame to create window.
   Frame class: subclass os window class, it contains title bar, menu bar, border and control button
+ 
+Swing:
+  Swing is developed based on AWT
+  Difference between AWT:
+    AWT components can be influenced by the OS on which the app runs on
+    Swing components are implemented by java, no influence
